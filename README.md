@@ -12,3 +12,5 @@ This task is about predicting the stock market prices. So, that I have collected
 I have used various plot diagrams to visualize the data in a proper mannner for prediction. I have used scatterplot, count plot, histogram, line and bar charts for data visualization. Then I have build a machine learning model for stock market prediction.
 
 I would like to thank #Mr. Aman Kesarwani sir and #LetsGrowMore for giving this opportunity to do this tasks.
+
+   Link for the code: https://www.linkedin.com/feed/update/urn:li:activity:7080566749628149761/
